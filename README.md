@@ -1,7 +1,7 @@
-CID_547_Athena_Commando_F_Meteorwoman, 2500
-EID_LetsBegin_Beyond, 2000
-na
-na
+ CID_028_Athena_Commando_F, 0
+ AstronomicalBundle, 0
+ CID_515_Athena_Commando_M_BarbequeLarry, 0
+Pickaxe_ID_376_FNCS, 0
 na
 na
 CID_027_Athena_Commando_F, 1200
